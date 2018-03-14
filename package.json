@@ -24,6 +24,7 @@
   "author": "Archriss",
   "license": "ISC",
   "dependencies": {
+    "prop-types": "^15.6.1",
     "react-addons-shallow-compare": "latest"
   },
   "devDependencies": {
